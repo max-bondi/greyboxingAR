@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="backofmemoryofrunning2" size="0.800000 1.322222" />
+    <ImageTarget name="sightandsound" size="0.800000 1.032999" />
+    <ImageTarget name="JEANNEDIELMAN" size="0.800000 0.993789" />
+    <ImageTarget name="thememoryofrunning" size="0.700000 0.700000" />
+    <ImageTarget name="magictreehouse" size="0.200000 0.304054" />
+  </Tracking>
+</QCARConfig>
