@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mentalhealth" size="0.500000 0.666667" />
+    <ImageTarget name="comic" size="0.500000 0.666667" />
+    <ImageTarget name="conf" size="3.000000 4.000000" />
+    <ImageTarget name="mysteryman" size="3.000000 4.000000" />
+    <ImageTarget name="japaneseart" size="0.800000 1.066667" />
+    <ImageTarget name="dress" size="4.700000 3.525000" />
+  </Tracking>
+</QCARConfig>
